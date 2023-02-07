@@ -23,12 +23,12 @@ public class Main extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "Banderogus_AlexBot";
+        return "myUserName";
     }
 
     @Override
     public String getBotToken() {
-        return "5955730017:AAFTVkErE_5Mce3o8gkBhqD51lwxe32OFr4";
+        return "myToken";
     }
 
     @Override
